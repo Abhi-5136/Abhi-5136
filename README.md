@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align="center">
+	<img src="welcome-header.gif" alt="welcome to my github profile">
+	<br>
+	<br>
+</div>
 
 <!--
 **Abhi-5136/Abhi-5136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
