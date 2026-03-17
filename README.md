@@ -5,7 +5,7 @@
 </div>
 
 **The Unicorns**&nbsp;&nbsp;![](unicorn.gif)    
-<img src="under-construction.gif" align="right" width="500">
+<img src="under-construction.gif" align="right" width="1000">
 <!--
 **Abhi-5136/Abhi-5136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
