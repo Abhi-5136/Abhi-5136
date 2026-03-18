@@ -8,7 +8,7 @@
 
  
 <div align="center">
-      <b>_______________________________________________</b> <img src="unicorn.gif" alt="woking">  <b>_______________________________________________</b> 
+      <b>____________________________________________</b> <img src="unicorn.gif" alt="woking">  <b>____________________________________________</b> 
 </div>
 <img src="under-construction.gif" align="right" width="1000">
 <!--
